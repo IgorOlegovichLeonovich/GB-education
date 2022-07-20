@@ -259,6 +259,12 @@ This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet, consectetu
 
 Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.
 
-В цитаты можно помещать всё что угодно, в том числе вложенные цитаты.
+В цитаты можно помещать всё что угодно, в том числе вложенные цитаты. 
+
+## Исходный код
+
+В чистом Маркдауне блоки кода отбиваются 4 пробелами в начале каждой строки.
+
+Но в GitHub-Flavored Markdown (сокращенно GFM) есть более удобный способ: ставим по три апострофа (на букве Ё) до и после кода. Также можно указать язык исходного кода.
 
 ![котики](Nine_lives.jpg)
