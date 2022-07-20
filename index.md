@@ -267,4 +267,8 @@ Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem con
 
 Но в GitHub Flavored Markdown (сокращенно GFM) есть более удобный способ: ставим по три апострофа (на букве Ё) до и после кода. Также можно указать язык исходного кода.
 
+## Горизонтальная черта
+
+hr создается тремя звездочками или тремя дефисами.
+
 ![котики](Nine_lives.jpg)
