@@ -260,3 +260,5 @@ This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet, consectetu
 Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.
 
 В цитаты можно помещать всё что угодно, в том числе вложенные цитаты.
+
+![котики](Nine_lives.jpg)
