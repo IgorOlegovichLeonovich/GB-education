@@ -186,12 +186,13 @@ $ git pull
 Загружает историю из удалённого репозитория и объединяет её с локальной.pull = fetch + merge
 
 
-GitHub-Flavored Markdown
-Краткое руководство
+# **GitHub-Flavored Markdown**
+
+## Краткое руководство
+
 Абзацы создаются при помощи пустой строки. Если вокруг текста сверху и снизу есть пустые строки, то текст превращается в абзац.
 
-Чтобы сделать перенос строки вместо абзаца,
-нужно поставить два пробела в конце предыдущей строки.
+Чтобы сделать перенос строки вместо абзаца, нужно поставить два пробела в конце предыдущей строки.
 
 Заголовки отмечаются диезом # в начале строки, от одного до шести. Например:
 
@@ -203,12 +204,14 @@ GitHub-Flavored Markdown
 ЗАГОЛОВОК H6
 В декоративных целях заголовки можно «закрывать» с обратной стороны.
 
-Списки
+## Списки
+
 Для разметки неупорядоченных списков можно использовать или *, или -, или +:
 
 элемент 1
 элемент 2
 элемент ...
+
 Вложенные пункты создаются четырьмя пробелами перед маркером пункта:
 
 элемент 1
@@ -216,6 +219,7 @@ GitHub-Flavored Markdown
 вложенный элемент 2.1
 вложенный элемент 2.2
 элемент ...
+
 Упорядоченный список:
 
 элемент 1
@@ -224,6 +228,7 @@ GitHub-Flavored Markdown
 вложенный
 элемент 3
 Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.
+
 На самом деле не важно как в коде пронумерованы пункты, главное, чтобы перед элементом списка стояла цифра (любая) с точкой. Можно сделать и так:
 
 элемент 1
@@ -240,7 +245,8 @@ Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem con
 
 Четыре абзац (Четыре пробела в начале или один tab).
 
-Цитаты
+## Цитаты
+
 Цитаты оформляются как в емейлах, с помощью символа >.
 
 This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
@@ -253,4 +259,4 @@ This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet, consectetu
 
 Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.
 
-В цитаты можно помещать всё что угодно, в том числе вложенные цитаты:
+В цитаты можно помещать всё что угодно, в том числе вложенные цитаты.
